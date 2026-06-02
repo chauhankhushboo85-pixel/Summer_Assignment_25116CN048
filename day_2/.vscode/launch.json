@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Q6",
+      "request": "launch",
+      "mainClass": "Q6",
+      "projectName": "day_2_63fcef30"
+    },
+    {
+      "type": "java",
+      "name": "Q7",
+      "request": "launch",
+      "mainClass": "Q7",
+      "projectName": "day_2_63fcef30"
+    },
+    {
+      "type": "java",
+      "name": "Q8",
+      "request": "launch",
+      "mainClass": "Q8",
+      "projectName": "day_2_63fcef30"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Administrator/Documents/Summer_Assignment_25116CN048/day_2",
+      "program": "c:/Users/Administrator/Documents/Summer_Assignment_25116CN048/day_2/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
