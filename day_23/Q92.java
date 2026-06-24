@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q72 {
+public class Q92 {
     public static void main(String[] args) {
         Scanner Scanner= new Scanner(System.in);
         System.out.println("enter the string:");
